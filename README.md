@@ -6,7 +6,7 @@ Data and privacy in the news
 
 **Due** : Wednesday 17 September 2025
 
-**Lab Expiration Data** : Wednesday 24 September 2025
+**Lab Expiration Date** : Wednesday 24 September 2025
 
 ![logo](graphics/controllers_i.png)
 
