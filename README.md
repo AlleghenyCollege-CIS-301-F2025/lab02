@@ -1,6 +1,7 @@
-# Data Science (CS301) Lab 1 Assignment
+# Data Science (CS301) Lab 2 Assignment
+Fall 2025
 
-Data and privacy in the news
+## Video Game Sales and Ratings Analysis
 
 **Assigned** : Wednesday 10 September 2025
 
