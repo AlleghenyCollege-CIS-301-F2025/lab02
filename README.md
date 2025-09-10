@@ -10,6 +10,8 @@ Data and privacy in the news
 
 ![logo](graphics/controllers_i.png)
 
+In this lab assignment, you will be studying a dataset that contains information about video game sales and ratings. The goal is to perform data cleaning, exploratory data analysis (EDA), and visualization to understand the distribution of sales and ratings.
+
 ## Project Goals
 
 The main goals of this work include the following.
@@ -58,7 +60,8 @@ Task to complete in `writing/reflection.md`
 
 * Complete questions in to reflect on your findings from the analysis.
 
-### submitting Assignments
+### Submitting Assignments
+
 You are to submit your completed lab assignment by pushing your changes to your GitHub repository. As you are working on your lab, you are to commit and push regularly. The commands are the following.
 
 ``` bash
