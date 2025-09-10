@@ -8,7 +8,7 @@ Data and privacy in the news
 
 **Lab Expiration Data** : Wednesday 24 September 2025
 
-![logo](graphics/gree.png)
+![logo](graphics/controllers_i.png)
 
 ## Project Goals
 
